@@ -11,7 +11,7 @@
 https://github.com/lllyasviel/ControlNet
 
 ## Paper
-
+https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
 
 ## Output
 ![Screenshot 2023-02-12 023250](https://user-images.githubusercontent.com/54370274/218286109-0106cac8-8b03-4027-a687-192baf556efa.jpg)
