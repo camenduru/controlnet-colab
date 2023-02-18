@@ -3,18 +3,18 @@
 # 🚦 WIP 🚦
 
 ## 🦒 Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/controlnet-colab.ipynb)
+| Colab Page | Model Page
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/anything_4_controlnet_colab.ipynb) anything_4_controlnet_colab | https://huggingface.co/andite/anything-v4.0
 
 ## Main Repo
-https://github.com/lllyasviel/ControlNet
+https://github.com/lllyasviel/ControlNet thanks to https://twitter.com/lvminzhang ❤
 
 ## Paper
 https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
 
-## 🦒 Colab
-| Colab Page | Model Page
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/anything_4_controlnet_colab.ipynb) anything_4_controlnet_colab | https://huggingface.co/andite/anything-v4.0
+## Modified Code 
+https://huggingface.co/spaces/hysts/ControlNet-with-other-models thansk to https://twitter.com/hysts12321 ❤
 
 
 # 👇 NOT READY COLABS 👇
