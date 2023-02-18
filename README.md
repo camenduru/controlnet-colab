@@ -14,7 +14,7 @@ https://github.com/lllyasviel/ControlNet thanks to https://twitter.com/lvminzhan
 https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
 
 ## Modified Code 
-https://huggingface.co/spaces/hysts/ControlNet-with-other-models thansk to https://twitter.com/hysts12321 ❤
+https://huggingface.co/spaces/hysts/ControlNet-with-other-models thanks to https://twitter.com/hysts12321 ❤
 
 
 # 👇 NOT READY COLABS 👇
