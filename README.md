@@ -5,23 +5,6 @@
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/anything_4_controlnet_colab.ipynb) anything_4_controlnet_colab | https://huggingface.co/andite/anything-v4.0
-
-## Main Repo
-https://github.com/lllyasviel/ControlNet thanks to https://twitter.com/lvminzhang ❤
-
-## Paper
-https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
-
-## Modified Code 
-https://huggingface.co/spaces/hysts/ControlNet-with-other-models thanks to https://twitter.com/hysts12321 ❤
-
-
-# 👇 NOT READY COLABS 👇
-
-## 🦒 Colab
-| Colab Page | Model Page
-| --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/stable_diffusion_controlnet_colab.ipynb) stable_diffusion_controlnet_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/waifu_diffusion_controlnet_colab.ipynb) waifu_diffusion_controlnet_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/stable_diffusion_inpainting_controlnet_colab.ipynb) stable_diffusion_inpainting_controlnet_colab | https://huggingface.co/runwayml/stable-diffusion-inpainting
@@ -99,3 +82,12 @@ https://huggingface.co/spaces/hysts/ControlNet-with-other-models thanks to https
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/waifu_diffusion_v1_5_controlnet_colab.ipynb) waifu_diffusion_v1_5_controlnet_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/protogen_nova_controlnet_colab.ipynb) protogen_nova_controlnet_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet-colab/blob/main/protogen_x3_4_controlnet_colab.ipynb) protogen_x3_4_controlnet_colab | https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
+
+## Main Repo
+https://github.com/lllyasviel/ControlNet thanks to https://twitter.com/lvminzhang ❤
+
+## Paper
+https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
+
+## Modified Code 
+https://huggingface.co/spaces/hysts/ControlNet-with-other-models thanks to https://twitter.com/hysts12321 ❤
