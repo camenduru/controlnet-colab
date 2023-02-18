@@ -1,5 +1,8 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
+## Stable Diffusion WebUI Colabs
+https://github.com/camenduru/stable-diffusion-webui-colab
+
 # 🚦 WIP 🚦
 
 # 🚨 Only 1.5 base models may work right now
