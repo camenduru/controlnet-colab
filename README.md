@@ -20,7 +20,7 @@ https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/controlnet_colab/blob/main/anything_4_controlnet_colab.ipynb) anything_4_controlnet_colab | https://huggingface.co/andite/anything-v4.0
 
 
-# NOT READY COLABS
+# 👇 NOT READY COLABS 👇
 
 ## 🦒 Colab
 | Colab Page | Model Page
