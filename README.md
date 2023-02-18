@@ -2,6 +2,8 @@
 
 # 🚦 WIP 🚦
 
+# 🚨 Only 1.5 base models may work right now
+
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
