@@ -1,12 +1,7 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
-## Stable Diffusion WebUI Colabs
-https://github.com/camenduru/stable-diffusion-webui-colab
-
-## ControlNet With Stable Diffusion WebUI Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb) <br />
-https://github.com/lllyasviel/ControlNet thanks to @lllyasviel ❤ <br />
-https://github.com/Mikubill/sd-webui-controlnet thanks to @Mikubill ❤ <br />
+## Stable Diffusion WebUI Colabs With ControlNet
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0
 
 # 🚦 WIP 🚦
 
