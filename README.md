@@ -1,6 +1,6 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
-## Stable Diffusion WebUI Colabs With ControlNet
+# 🚨 Stable Diffusion WebUI Colabs With ControlNet
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0
 
 # 🚦 WIP 🚦
