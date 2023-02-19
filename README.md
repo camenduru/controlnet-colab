@@ -4,7 +4,9 @@
 https://github.com/camenduru/stable-diffusion-webui-colab
 
 ## ControlNet With Stable Diffusion WebUI Colab
-https://github.com/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb) <br />
+https://github.com/lllyasviel/ControlNet thanks to @lllyasviel ❤ <br />
+https://github.com/Mikubill/sd-webui-controlnet thanks to @Mikubill ❤ <br />
 
 # 🚦 WIP 🚦
 
