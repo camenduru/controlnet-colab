@@ -3,6 +3,9 @@
 ## Stable Diffusion WebUI Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab
 
+## ControlNet With Stable Diffusion WebUI Colab
+https://github.com/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb
+
 # 🚦 WIP 🚦
 
 # 🚨 Only 1.5 base models may work right now
