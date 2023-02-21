@@ -1,4 +1,5 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 # 🚨 Stable Diffusion WebUI Colabs With ControlNet
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0
