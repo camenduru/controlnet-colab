@@ -101,3 +101,6 @@ https://huggingface.co/spaces/hysts/ControlNet-with-other-models thanks to https
 ## Extracted ControlNet weights
 https://huggingface.co/kohya-ss/ControlNet-diff-modules/tree/main thanks to https://twitter.com/kohya_tech ❤ <br />
 https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main thanks to https://github.com/ClashSAN ❤
+
+## License
+https://huggingface.co/spaces/hysts/ControlNet-with-other-models/blob/main/LICENSE
