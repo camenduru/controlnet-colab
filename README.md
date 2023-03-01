@@ -103,4 +103,5 @@ https://huggingface.co/kohya-ss/ControlNet-diff-modules/tree/main thanks to http
 https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main thanks to https://github.com/ClashSAN ❤
 
 ## License
+https://github.com/lllyasviel/ControlNet/blob/main/LICENSE <br />
 https://huggingface.co/spaces/hysts/ControlNet-with-other-models/blob/main/LICENSE
